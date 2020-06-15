@@ -40,4 +40,8 @@ You can follow the installation guide on the [Website](http://www.httrack.com/pa
 
 ![Eigth Step](img/noadditionaloptions.png)
 
+9. Type `Y` in order to download the files
+
+![Ninth Step](img/typey.png)
+
 After you have completed these steps, the files are going to be downloaded into the base path that you defined in step `3`. Next navigate to `basepath/projectname` and double click on the `index.html` file. This will open a local version of the dump in your browser.
